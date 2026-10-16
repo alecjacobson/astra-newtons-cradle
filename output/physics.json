@@ -1,0 +1,16 @@
+{
+  "duration_seconds": 10,
+  "physics_step_seconds": 1.6666666666666667e-05,
+  "animation_samples_hz": 120,
+  "sphere_radius_m": 0.027,
+  "pendulum_length_m": 0.235,
+  "mass_kg": 0.65,
+  "restitution": 0.996,
+  "release_seconds": 1.0,
+  "initial_angle_degrees": 32.65859432245692,
+  "minimum_gap_before_projection_m": -1.2614420551886052e-05,
+  "energy_at_release_j": 0.2369078289613174,
+  "energy_at_end_j": 0.1457713469160974,
+  "number_of_resolved_impacts_above_0.1_m_s": 72,
+  "notes": "First 0.8 s is a prescribed external pull, then a 0.2 s hold. Subsequent motion is simulated. Normal impulses conserve momentum; small restitution loss and angular drag dissipate energy. Strings follow constrained pendulum arcs."
+}

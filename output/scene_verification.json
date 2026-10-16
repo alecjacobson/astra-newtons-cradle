@@ -1,0 +1,14 @@
+{
+  "frame_count": 300,
+  "fps": 30,
+  "dimensions": [
+    1920,
+    1080
+  ],
+  "camera_is_stationary": true,
+  "base_is_stationary": true,
+  "sphere_count": 5,
+  "maximum_suspension_anchor_displacement_m": 0.0,
+  "minimum_projected_sphere_center_margin": 0.295479416847229,
+  "wire_length_preserved_by_rigid_rotation": true
+}

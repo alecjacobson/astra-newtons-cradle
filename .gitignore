@@ -1,0 +1,8 @@
+# Regenerable frames and render logs stay local.
+output/frames/
+*.log
+*.blend[0-9]*
+__pycache__/
+*.py[cod]
+.venv/
+newtons_cradle_source.zip
